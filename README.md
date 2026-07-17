@@ -81,7 +81,7 @@ _(coming soon)_
 Python, Pandas, NumPy, Matplotlib/Seaborn, Scikit-learn, PyTorch, Hugging Face
 
 ## 🔗 Connect
-Following along on LinkedIn — [add your profile link]
+Following along on LinkedIn — linkedin.com/in/sejal-machivale
 
 ---
 *Updated daily as the sprint progresses.*
